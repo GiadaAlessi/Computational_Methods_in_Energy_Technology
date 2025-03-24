@@ -17,7 +17,7 @@ The project explores:
 - Analysis of thermophysical properties for different fluids:
   - **Water**, **Therminol 66**, and **Air**.
 
-## 🐍 MATLAB Code
+## 🟧🟦 MATLAB Code
 The MATLAB code implements:
 - Discretization of the geometry using finite volumes.
 - Iterative calculations to achieve convergence on velocity, pressure, and temperature profiles.
