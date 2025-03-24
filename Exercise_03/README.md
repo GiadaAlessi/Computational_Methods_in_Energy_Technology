@@ -5,7 +5,7 @@ This project models the **one-dimensional steady-state heat conduction** in a cy
 ## 📄 Report
 For a detailed explanation of the methodology, results, and conclusions, please refer to the full report (developed in collaboration with **Emanuele Kob**):
 
-➡️ [1D Steady Heat Conduction Report - Giada Alessi & Emanuele Kob](https://github.com/GiadaAlessi/Computational_Methods_in_Energy_Technology/blob/main/Exercise_03/Alessi-Kob_CMET_Assign-3.pdf)
+➡️ [Conjugated Problem Report - Giada Alessi & Emanuele Kob](https://github.com/GiadaAlessi/Computational_Methods_in_Energy_Technology/blob/main/Exercise_03/Alessi-Kob_CMET_Assign-3.pdf)
 
 ## 🔍 Project Overview
 The project explores:
@@ -23,7 +23,7 @@ The MATLAB code implements:
 - Iterative calculations to achieve convergence on velocity, pressure, and temperature profiles.
 - Detailed evaluation of heat transfer coefficients and their effect on system performance.
 
-For code details, refer to the file ➡️ [Alessi-Kob_CMET_Assign-3_MATLAB.pdf](https://github.com/GiadaAlessi/Computational_Methods_in_Energy_Technology/blob/main/Exercise_03/Alessi-Kob_CMET_Assign-3_MATLAB.pdf)
+For code details, refer to the file ➡️ [Conjugated Problem Code - Giada Alessi & Emanuele Kob](https://github.com/GiadaAlessi/Computational_Methods_in_Energy_Technology/blob/main/Exercise_03/Alessi-Kob_CMET_Assign-3_MATLAB.pdf)
 
 ---
 **Authors:** Giada Alessi & Emanuele Kob
